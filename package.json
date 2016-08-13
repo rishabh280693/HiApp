@@ -1,0 +1,19 @@
+{
+  "name": "hi-app",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh280693/HiApp.git"
+  },
+  "author": "Rishabh Verma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh280693/HiApp/issues"
+  },
+  "homepage": "https://github.com/rishabh280693/HiApp#readme"
+}
